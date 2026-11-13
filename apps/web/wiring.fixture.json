@@ -1,0 +1,11 @@
+{
+  "cloudflare-r2/dev": {
+    "r2_bucket_name": "dev-salesforce-commerce-storefront-dev"
+  },
+  "cloudflare-r2/stage": {
+    "r2_bucket_name": "stg-salesforce-commerce-storefront-stage"
+  },
+  "cloudflare-r2/prod": {
+    "r2_bucket_name": "prod-salesforce-commerce-storefront-prod"
+  }
+}
